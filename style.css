@@ -206,6 +206,10 @@ li{
         margin: 0px;
         padding: 0px;
     }
+    .about{
+        
+        padding-left: 0px;
+    }
 
     .contain{
         margin: 0px;
@@ -213,7 +217,17 @@ li{
     }
     .follow{
         margin-top: 60px;
+        margin-left: 0px;
         
+        padding-left: 0px;
+        
+    }
+    .repos{
+        
+        padding-left: 0px;
+    }
+    .repo-title{
+        margin-left: 5px;
     }
 
     .span{
